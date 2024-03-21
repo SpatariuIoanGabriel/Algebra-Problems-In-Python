@@ -1,0 +1,12 @@
+1. The elements of the group (S2, ◦) are:
+
+e = (1, 2)
+    (1, 2)
+
+σ1 = (1, 2)
+     (2, 1) = (1 2)
+
+2. The orders of the elements of the group (S2, ◦) are:
+
+ord(e) = 1
+ord(σ1) = 2
