@@ -1,0 +1,5 @@
+1. The number of associative operations on a set A = {a1} is 1
+2. The operation tables of the associative operations on A are:
+
+Table 1:
+(a1)
