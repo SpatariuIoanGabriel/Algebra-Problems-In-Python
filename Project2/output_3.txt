@@ -1,0 +1,18 @@
+1.The abelian group structures on G are given by the matrices:
+
+Structure 1:
+(a1 a2 a3)
+(a2 a3 a1)
+(a3 a1 a2)
+
+Structure 2:
+(a2 a3 a1)
+(a3 a1 a2)
+(a1 a2 a3)
+
+Structure 3:
+(a3 a1 a2)
+(a1 a2 a3)
+(a2 a3 a1)
+
+2.The number of abelian group structures on a set G = {a1, a2, a3} is 3.

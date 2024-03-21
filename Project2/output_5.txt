@@ -1,0 +1,213 @@
+1.The abelian group structures on G are given by the matrices:
+
+Structure 1:
+(a1 a2 a3 a4 a5)
+(a2 a3 a4 a5 a1)
+(a3 a4 a5 a1 a2)
+(a4 a5 a1 a2 a3)
+(a5 a1 a2 a3 a4)
+
+Structure 2:
+(a1 a2 a3 a4 a5)
+(a2 a3 a5 a1 a4)
+(a3 a5 a4 a2 a1)
+(a4 a1 a2 a5 a3)
+(a5 a4 a1 a3 a2)
+
+Structure 3:
+(a1 a2 a3 a4 a5)
+(a2 a4 a5 a3 a1)
+(a3 a5 a2 a1 a4)
+(a4 a3 a1 a5 a2)
+(a5 a1 a4 a2 a3)
+
+Structure 4:
+(a1 a2 a3 a4 a5)
+(a2 a4 a1 a5 a3)
+(a3 a1 a5 a2 a4)
+(a4 a5 a2 a3 a1)
+(a5 a3 a4 a1 a2)
+
+Structure 5:
+(a1 a2 a3 a4 a5)
+(a2 a5 a1 a3 a4)
+(a3 a1 a4 a5 a2)
+(a4 a3 a5 a2 a1)
+(a5 a4 a2 a1 a3)
+
+Structure 6:
+(a1 a2 a3 a4 a5)
+(a2 a5 a4 a1 a3)
+(a3 a4 a2 a5 a1)
+(a4 a1 a5 a3 a2)
+(a5 a3 a1 a2 a4)
+
+Structure 7:
+(a3 a1 a5 a2 a4)
+(a1 a2 a3 a4 a5)
+(a5 a3 a4 a1 a2)
+(a2 a4 a1 a5 a3)
+(a4 a5 a2 a3 a1)
+
+Structure 8:
+(a3 a1 a4 a5 a2)
+(a1 a2 a3 a4 a5)
+(a4 a3 a5 a2 a1)
+(a5 a4 a2 a1 a3)
+(a2 a5 a1 a3 a4)
+
+Structure 9:
+(a4 a1 a2 a5 a3)
+(a1 a2 a3 a4 a5)
+(a2 a3 a5 a1 a4)
+(a5 a4 a1 a3 a2)
+(a3 a5 a4 a2 a1)
+
+Structure 10:
+(a4 a1 a5 a3 a2)
+(a1 a2 a3 a4 a5)
+(a5 a3 a1 a2 a4)
+(a3 a4 a2 a5 a1)
+(a2 a5 a4 a1 a3)
+
+Structure 11:
+(a5 a1 a2 a3 a4)
+(a1 a2 a3 a4 a5)
+(a2 a3 a4 a5 a1)
+(a3 a4 a5 a1 a2)
+(a4 a5 a1 a2 a3)
+
+Structure 12:
+(a5 a1 a4 a2 a3)
+(a1 a2 a3 a4 a5)
+(a4 a3 a1 a5 a2)
+(a2 a4 a5 a3 a1)
+(a3 a5 a2 a1 a4)
+
+Structure 13:
+(a5 a3 a1 a2 a4)
+(a3 a4 a2 a5 a1)
+(a1 a2 a3 a4 a5)
+(a2 a5 a4 a1 a3)
+(a4 a1 a5 a3 a2)
+
+Structure 14:
+(a4 a3 a1 a5 a2)
+(a3 a5 a2 a1 a4)
+(a1 a2 a3 a4 a5)
+(a5 a1 a4 a2 a3)
+(a2 a4 a5 a3 a1)
+
+Structure 15:
+(a2 a4 a1 a5 a3)
+(a4 a5 a2 a3 a1)
+(a1 a2 a3 a4 a5)
+(a5 a3 a4 a1 a2)
+(a3 a1 a5 a2 a4)
+
+Structure 16:
+(a5 a4 a1 a3 a2)
+(a4 a1 a2 a5 a3)
+(a1 a2 a3 a4 a5)
+(a3 a5 a4 a2 a1)
+(a2 a3 a5 a1 a4)
+
+Structure 17:
+(a2 a5 a1 a3 a4)
+(a5 a4 a2 a1 a3)
+(a1 a2 a3 a4 a5)
+(a3 a1 a4 a5 a2)
+(a4 a3 a5 a2 a1)
+
+Structure 18:
+(a4 a5 a1 a2 a3)
+(a5 a1 a2 a3 a4)
+(a1 a2 a3 a4 a5)
+(a2 a3 a4 a5 a1)
+(a3 a4 a5 a1 a2)
+
+Structure 19:
+(a3 a5 a2 a1 a4)
+(a5 a1 a4 a2 a3)
+(a2 a4 a5 a3 a1)
+(a1 a2 a3 a4 a5)
+(a4 a3 a1 a5 a2)
+
+Structure 20:
+(a5 a3 a4 a1 a2)
+(a3 a1 a5 a2 a4)
+(a4 a5 a2 a3 a1)
+(a1 a2 a3 a4 a5)
+(a2 a4 a1 a5 a3)
+
+Structure 21:
+(a2 a5 a4 a1 a3)
+(a5 a3 a1 a2 a4)
+(a4 a1 a5 a3 a2)
+(a1 a2 a3 a4 a5)
+(a3 a4 a2 a5 a1)
+
+Structure 22:
+(a2 a3 a5 a1 a4)
+(a3 a5 a4 a2 a1)
+(a5 a4 a1 a3 a2)
+(a1 a2 a3 a4 a5)
+(a4 a1 a2 a5 a3)
+
+Structure 23:
+(a3 a4 a5 a1 a2)
+(a4 a5 a1 a2 a3)
+(a5 a1 a2 a3 a4)
+(a1 a2 a3 a4 a5)
+(a2 a3 a4 a5 a1)
+
+Structure 24:
+(a5 a4 a2 a1 a3)
+(a4 a3 a5 a2 a1)
+(a2 a5 a1 a3 a4)
+(a1 a2 a3 a4 a5)
+(a3 a1 a4 a5 a2)
+
+Structure 25:
+(a3 a4 a2 a5 a1)
+(a4 a1 a5 a3 a2)
+(a2 a5 a4 a1 a3)
+(a5 a3 a1 a2 a4)
+(a1 a2 a3 a4 a5)
+
+Structure 26:
+(a4 a3 a5 a2 a1)
+(a3 a1 a4 a5 a2)
+(a5 a4 a2 a1 a3)
+(a2 a5 a1 a3 a4)
+(a1 a2 a3 a4 a5)
+
+Structure 27:
+(a2 a4 a5 a3 a1)
+(a4 a3 a1 a5 a2)
+(a5 a1 a4 a2 a3)
+(a3 a5 a2 a1 a4)
+(a1 a2 a3 a4 a5)
+
+Structure 28:
+(a2 a3 a4 a5 a1)
+(a3 a4 a5 a1 a2)
+(a4 a5 a1 a2 a3)
+(a5 a1 a2 a3 a4)
+(a1 a2 a3 a4 a5)
+
+Structure 29:
+(a3 a5 a4 a2 a1)
+(a5 a4 a1 a3 a2)
+(a4 a1 a2 a5 a3)
+(a2 a3 a5 a1 a4)
+(a1 a2 a3 a4 a5)
+
+Structure 30:
+(a4 a5 a2 a3 a1)
+(a5 a3 a4 a1 a2)
+(a2 a4 a1 a5 a3)
+(a3 a1 a5 a2 a4)
+(a1 a2 a3 a4 a5)
+
+2.The number of abelian group structures on a set G = {a1, a2, a3, a4, a5} is 30.
