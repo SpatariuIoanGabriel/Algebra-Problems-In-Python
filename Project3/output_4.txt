@@ -1,0 +1,10 @@
+1. The number of subgroups of the abelian group (Z3xZ4, +) is 6.
+
+2. The subgroups of the abelian group (Z3xZ4, +) are:
+
+H1 = {(0, 0)}
+H2 = {(0, 0), (0, 2)}
+H3 = {(0, 0), (1, 0), (2, 0)}
+H4 = {(0, 0), (0, 1), (0, 2), (0, 3)}
+H5 = {(0, 0), (0, 2), (1, 0), (1, 2), (2, 0), (2, 2)}
+H6 = Z3xZ4

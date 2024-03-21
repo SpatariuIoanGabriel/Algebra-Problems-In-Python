@@ -1,0 +1,12 @@
+1. The number of subgroups of the abelian group (Z2xZ4, +) is 8.
+
+2. The subgroups of the abelian group (Z2xZ4, +) are:
+
+H1 = {(0, 0)}
+H2 = {(0, 0), (0, 2)}
+H3 = {(0, 0), (1, 0)}
+H4 = {(0, 0), (1, 2)}
+H5 = {(0, 0), (0, 1), (0, 2), (0, 3)}
+H6 = {(0, 0), (0, 2), (1, 0), (1, 2)}
+H7 = {(0, 0), (0, 2), (1, 1), (1, 3)}
+H8 = Z2xZ4

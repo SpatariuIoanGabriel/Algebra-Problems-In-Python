@@ -1,0 +1,8 @@
+1. The number of subgroups of the abelian group (Z2xZ3, +) is 4.
+
+2. The subgroups of the abelian group (Z2xZ3, +) are:
+
+H1 = {(0, 0)}
+H2 = {(0, 0), (1, 0)}
+H3 = {(0, 0), (0, 1), (0, 2)}
+H4 = Z2xZ3
